@@ -1,0 +1,7 @@
+{
+  "name": "pdocapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
